@@ -40,7 +40,7 @@ En Google Colab
 3. Ejecuta todas las celdas en orden.
 
 Localmente
-1. Clona este repositorio: git clone https://github.com/maralmonpe6805/challenge_alura_store.git
+1. Clona este repositorio: git clone https://github.com/maralmonpe6805/challenge_alura_store_one8.git
 3. Abre y ejecuta el notebook en Jupyter: jupyter notebook AluraStoreOne8.ipynb
 
 ## **CONCLUSIONES:**
